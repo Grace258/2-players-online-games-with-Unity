@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Background.meta
+    - Assets/Background/night-backgrounds.meta
+    - Assets/Background/night-backgrounds/night-beach-cloud-01.png
+    - Assets/Background/night-backgrounds/night-beach-cloud-01.png.meta
+    - Assets/Background/night-backgrounds/night-beach-cloud-03.png
+    - Assets/Background/night-backgrounds/night-beach-cloud-03.png.meta
+    - Assets/Background/night-backgrounds/night-beach-mountain-01.png
+    - Assets/Background/night-backgrounds/night-beach-mountain-01.png.meta
+    - Assets/Background/night-backgrounds/night-beach-sky.png
+    - Assets/Background/night-backgrounds/night-beach-sky.png.meta
+    - Assets/Background/night-backgrounds/night-sea.png
+    - Assets/Background/night-backgrounds/night-sea.png.meta
+    - Assets/Background/night-backgrounds/night-wave-01.png
+    - Assets/Background/night-backgrounds/night-wave-01.png.meta
+    - Assets/player.meta
+    - Assets/player/crocodile.png
+    - Assets/player/crocodile.png.meta
+    - Assets/player/dumbbell.png
+    - Assets/player/dumbbell.png.meta
+    - Assets/player/stick.png
+    - Assets/player/stick.png.meta
+    - Assets/scripts.meta
+    - Assets/scripts/PlayerController.cs
+    - Assets/scripts/PlayerController.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
